@@ -102,15 +102,7 @@ namespace CapaVistaCompras
             this.textBox40 = new System.Windows.Forms.TextBox();
             this.button13 = new System.Windows.Forms.Button();
             this.textBox39 = new System.Windows.Forms.TextBox();
-            this.label37 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.pk_id_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fk_codigo_almacen = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fk_id_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.fk_id_listado_productos = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cantidad_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.costo_unitario = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.total_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.textBox37 = new System.Windows.Forms.TextBox();
             this.label36 = new System.Windows.Forms.Label();
@@ -138,6 +130,13 @@ namespace CapaVistaCompras
             this.label33 = new System.Windows.Forms.Label();
             this.textBox34 = new System.Windows.Forms.TextBox();
             this.textBox38 = new System.Windows.Forms.TextBox();
+            this.pk_id_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fk_codigo_almacen = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fk_id_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fk_id_listado_productos = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cantidad_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.costo_unitario = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.total_detalle_orden_compra = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -168,18 +167,18 @@ namespace CapaVistaCompras
             this.groupBox2.Controls.Add(this.textBox8);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(725, 31);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(732, 391);
             this.groupBox2.TabIndex = 51;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Detalle Orden de compra";
+            this.groupBox2.Text = "Detalle partido";
             // 
             // button18
             // 
             this.button18.Location = new System.Drawing.Point(616, 10);
-            this.button18.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button18.Margin = new System.Windows.Forms.Padding(4);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(119, 31);
             this.button18.TabIndex = 63;
@@ -190,7 +189,7 @@ namespace CapaVistaCompras
             // button17
             // 
             this.button17.Location = new System.Drawing.Point(0, 327);
-            this.button17.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button17.Margin = new System.Windows.Forms.Padding(4);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(113, 64);
             this.button17.TabIndex = 65;
@@ -203,7 +202,7 @@ namespace CapaVistaCompras
             // 
             this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.Location = new System.Drawing.Point(569, 42);
-            this.button16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button16.Margin = new System.Windows.Forms.Padding(4);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(39, 30);
             this.button16.TabIndex = 64;
@@ -214,18 +213,18 @@ namespace CapaVistaCompras
             // button12
             // 
             this.button12.Location = new System.Drawing.Point(321, 327);
-            this.button12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button12.Margin = new System.Windows.Forms.Padding(4);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(124, 64);
             this.button12.TabIndex = 63;
-            this.button12.Text = "Insertar producto";
+            this.button12.Text = "Insertar detalle";
             this.button12.UseVisualStyleBackColor = true;
             this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button10
             // 
             this.button10.Location = new System.Drawing.Point(453, 327);
-            this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button10.Margin = new System.Windows.Forms.Padding(4);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(124, 64);
             this.button10.TabIndex = 62;
@@ -237,7 +236,7 @@ namespace CapaVistaCompras
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.Location = new System.Drawing.Point(569, 144);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(39, 30);
             this.button4.TabIndex = 56;
@@ -249,7 +248,7 @@ namespace CapaVistaCompras
             // 
             this.textBox2.Enabled = false;
             this.textBox2.Location = new System.Drawing.Point(335, 240);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(223, 30);
             this.textBox2.TabIndex = 54;
@@ -263,14 +262,14 @@ namespace CapaVistaCompras
             this.label2.Location = new System.Drawing.Point(180, 246);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(124, 24);
+            this.label2.Size = new System.Drawing.Size(120, 24);
             this.label2.TabIndex = 53;
-            this.label2.Text = "Costo unitario";
+            this.label2.Text = "Costo partido";
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(335, 191);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(223, 30);
             this.textBox1.TabIndex = 52;
@@ -283,15 +282,15 @@ namespace CapaVistaCompras
             this.label1.Location = new System.Drawing.Point(229, 197);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 24);
+            this.label1.Size = new System.Drawing.Size(78, 24);
             this.label1.TabIndex = 51;
-            this.label1.Text = "Cantidad";
+            this.label1.Text = "equipos";
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(567, 90);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(39, 30);
             this.button1.TabIndex = 50;
@@ -302,7 +301,7 @@ namespace CapaVistaCompras
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(167, 350);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(108, 34);
             this.button2.TabIndex = 49;
@@ -314,7 +313,7 @@ namespace CapaVistaCompras
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(335, 138);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(4);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(223, 30);
             this.textBox6.TabIndex = 48;
@@ -325,28 +324,28 @@ namespace CapaVistaCompras
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(55, 46);
+            this.label5.Location = new System.Drawing.Point(157, 45);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(236, 24);
+            this.label5.Size = new System.Drawing.Size(147, 24);
             this.label5.TabIndex = 41;
-            this.label5.Text = "Id detalle orden de compra";
+            this.label5.Text = "Id detalle partido";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(191, 149);
+            this.label6.Location = new System.Drawing.Point(218, 142);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(116, 24);
+            this.label6.Size = new System.Drawing.Size(102, 24);
             this.label6.TabIndex = 47;
-            this.label6.Text = "ID productos";
+            this.label6.Text = "tipo jugada";
             // 
             // textBox7
             // 
             this.textBox7.Location = new System.Drawing.Point(335, 39);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox7.Margin = new System.Windows.Forms.Padding(4);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(223, 30);
             this.textBox7.TabIndex = 42;
@@ -358,14 +357,14 @@ namespace CapaVistaCompras
             this.label7.Location = new System.Drawing.Point(163, 94);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(148, 24);
+            this.label7.Size = new System.Drawing.Size(115, 24);
             this.label7.TabIndex = 43;
-            this.label7.Text = "Codigo almacen";
+            this.label7.Text = "campeonato";
             // 
             // textBox8
             // 
             this.textBox8.Location = new System.Drawing.Point(335, 87);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox8.Margin = new System.Windows.Forms.Padding(4);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(223, 30);
             this.textBox8.TabIndex = 44;
@@ -374,7 +373,7 @@ namespace CapaVistaCompras
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Location = new System.Drawing.Point(1227, 6);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(39, 30);
             this.button3.TabIndex = 55;
@@ -386,7 +385,7 @@ namespace CapaVistaCompras
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(995, 4);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(4);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(223, 22);
             this.textBox5.TabIndex = 46;
@@ -429,9 +428,9 @@ namespace CapaVistaCompras
             this.groupBox1.Controls.Add(this.textBox15);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(1545, 513);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(695, 422);
             this.groupBox1.TabIndex = 53;
             this.groupBox1.TabStop = false;
@@ -441,7 +440,7 @@ namespace CapaVistaCompras
             // button5
             // 
             this.button5.Location = new System.Drawing.Point(549, 16);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(137, 66);
             this.button5.TabIndex = 62;
@@ -452,7 +451,7 @@ namespace CapaVistaCompras
             // textBox9
             // 
             this.textBox9.Location = new System.Drawing.Point(267, 363);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox9.Margin = new System.Windows.Forms.Padding(4);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(71, 30);
             this.textBox9.TabIndex = 59;
@@ -471,7 +470,7 @@ namespace CapaVistaCompras
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(243, 324);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(223, 30);
             this.textBox3.TabIndex = 57;
@@ -492,7 +491,7 @@ namespace CapaVistaCompras
             // 
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.Location = new System.Drawing.Point(497, 363);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(197, 59);
             this.button6.TabIndex = 49;
@@ -503,7 +502,7 @@ namespace CapaVistaCompras
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(336, 284);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(4);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(223, 30);
             this.textBox4.TabIndex = 55;
@@ -522,7 +521,7 @@ namespace CapaVistaCompras
             // textBox10
             // 
             this.textBox10.Location = new System.Drawing.Point(312, 245);
-            this.textBox10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox10.Margin = new System.Windows.Forms.Padding(4);
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(223, 30);
             this.textBox10.TabIndex = 53;
@@ -541,7 +540,7 @@ namespace CapaVistaCompras
             // textBox11
             // 
             this.textBox11.Location = new System.Drawing.Point(285, 206);
-            this.textBox11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox11.Margin = new System.Windows.Forms.Padding(4);
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(223, 30);
             this.textBox11.TabIndex = 51;
@@ -560,7 +559,7 @@ namespace CapaVistaCompras
             // textBox12
             // 
             this.textBox12.Location = new System.Drawing.Point(213, 116);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox12.Margin = new System.Windows.Forms.Padding(4);
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(223, 30);
             this.textBox12.TabIndex = 46;
@@ -569,7 +568,7 @@ namespace CapaVistaCompras
             // textBox13
             // 
             this.textBox13.Location = new System.Drawing.Point(347, 162);
-            this.textBox13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox13.Margin = new System.Windows.Forms.Padding(4);
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(223, 30);
             this.textBox13.TabIndex = 48;
@@ -599,7 +598,7 @@ namespace CapaVistaCompras
             // textBox14
             // 
             this.textBox14.Location = new System.Drawing.Point(213, 39);
-            this.textBox14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox14.Margin = new System.Windows.Forms.Padding(4);
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(223, 30);
             this.textBox14.TabIndex = 42;
@@ -631,7 +630,7 @@ namespace CapaVistaCompras
             // textBox15
             // 
             this.textBox15.Location = new System.Drawing.Point(213, 79);
-            this.textBox15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox15.Margin = new System.Windows.Forms.Padding(4);
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(223, 30);
             this.textBox15.TabIndex = 44;
@@ -640,7 +639,7 @@ namespace CapaVistaCompras
             // textBox16
             // 
             this.textBox16.Location = new System.Drawing.Point(1269, 10);
-            this.textBox16.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox16.Margin = new System.Windows.Forms.Padding(4);
             this.textBox16.Name = "textBox16";
             this.textBox16.Size = new System.Drawing.Size(223, 22);
             this.textBox16.TabIndex = 58;
@@ -649,6 +648,7 @@ namespace CapaVistaCompras
             // 
             // groupBox3
             // 
+            this.groupBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.groupBox3.Controls.Add(this.button14);
             this.groupBox3.Controls.Add(this.groupBox2);
             this.groupBox3.Controls.Add(this.button9);
@@ -670,18 +670,18 @@ namespace CapaVistaCompras
             this.groupBox3.Controls.Add(this.textBox25);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.Location = new System.Drawing.Point(36, 42);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox3.Size = new System.Drawing.Size(1465, 422);
             this.groupBox3.TabIndex = 59;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Orden de compra";
+            this.groupBox3.Text = "Partido";
             // 
             // button14
             // 
             this.button14.Location = new System.Drawing.Point(445, 37);
-            this.button14.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button14.Margin = new System.Windows.Forms.Padding(4);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(45, 34);
             this.button14.TabIndex = 62;
@@ -692,7 +692,7 @@ namespace CapaVistaCompras
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(445, 114);
-            this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button9.Margin = new System.Windows.Forms.Padding(4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(45, 34);
             this.button9.TabIndex = 61;
@@ -703,7 +703,7 @@ namespace CapaVistaCompras
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(445, 76);
-            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(45, 34);
             this.button7.TabIndex = 60;
@@ -714,7 +714,7 @@ namespace CapaVistaCompras
             // button8
             // 
             this.button8.Location = new System.Drawing.Point(616, 358);
-            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button8.Margin = new System.Windows.Forms.Padding(4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(113, 64);
             this.button8.TabIndex = 49;
@@ -726,7 +726,7 @@ namespace CapaVistaCompras
             // textBox19
             // 
             this.textBox19.Location = new System.Drawing.Point(336, 284);
-            this.textBox19.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox19.Margin = new System.Windows.Forms.Padding(4);
             this.textBox19.Name = "textBox19";
             this.textBox19.Size = new System.Drawing.Size(223, 30);
             this.textBox19.TabIndex = 55;
@@ -738,14 +738,15 @@ namespace CapaVistaCompras
             this.label19.Location = new System.Drawing.Point(4, 290);
             this.label19.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(284, 24);
+            this.label19.Size = new System.Drawing.Size(90, 24);
             this.label19.TabIndex = 54;
-            this.label19.Text = "Fecha entrega orden de compra";
+            this.label19.Text = "Marcador";
+            this.label19.Click += new System.EventHandler(this.label19_Click);
             // 
             // textBox20
             // 
             this.textBox20.Location = new System.Drawing.Point(312, 245);
-            this.textBox20.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox20.Margin = new System.Windows.Forms.Padding(4);
             this.textBox20.Name = "textBox20";
             this.textBox20.Size = new System.Drawing.Size(223, 30);
             this.textBox20.TabIndex = 53;
@@ -757,14 +758,14 @@ namespace CapaVistaCompras
             this.label20.Location = new System.Drawing.Point(4, 251);
             this.label20.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(264, 24);
+            this.label20.Size = new System.Drawing.Size(100, 24);
             this.label20.TabIndex = 52;
-            this.label20.Text = "Fecha inicio orden de compra";
+            this.label20.Text = "id Visitante";
             // 
             // textBox21
             // 
             this.textBox21.Location = new System.Drawing.Point(285, 206);
-            this.textBox21.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox21.Margin = new System.Windows.Forms.Padding(4);
             this.textBox21.Name = "textBox21";
             this.textBox21.Size = new System.Drawing.Size(223, 30);
             this.textBox21.TabIndex = 51;
@@ -776,14 +777,14 @@ namespace CapaVistaCompras
             this.label21.Location = new System.Drawing.Point(4, 212);
             this.label21.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(236, 24);
+            this.label21.Size = new System.Drawing.Size(69, 24);
             this.label21.TabIndex = 50;
-            this.label21.Text = "Prioridad orden de compra";
+            this.label21.Text = "id local";
             // 
             // textBox22
             // 
             this.textBox22.Location = new System.Drawing.Point(213, 116);
-            this.textBox22.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox22.Margin = new System.Windows.Forms.Padding(4);
             this.textBox22.Name = "textBox22";
             this.textBox22.Size = new System.Drawing.Size(223, 30);
             this.textBox22.TabIndex = 46;
@@ -791,7 +792,7 @@ namespace CapaVistaCompras
             // textBox23
             // 
             this.textBox23.Location = new System.Drawing.Point(347, 162);
-            this.textBox23.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox23.Margin = new System.Windows.Forms.Padding(4);
             this.textBox23.Name = "textBox23";
             this.textBox23.Size = new System.Drawing.Size(223, 30);
             this.textBox23.TabIndex = 48;
@@ -800,28 +801,28 @@ namespace CapaVistaCompras
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(4, 39);
+            this.label22.Location = new System.Drawing.Point(69, 41);
             this.label22.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(176, 24);
+            this.label22.Size = new System.Drawing.Size(87, 24);
             this.label22.TabIndex = 41;
-            this.label22.Text = "Id orden de compra";
+            this.label22.Text = "Id partido";
             // 
             // label23
             // 
             this.label23.AutoSize = true;
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(4, 169);
+            this.label23.Location = new System.Drawing.Point(122, 166);
             this.label23.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(293, 24);
+            this.label23.Size = new System.Drawing.Size(118, 24);
             this.label23.TabIndex = 47;
-            this.label23.Text = "Fecha creacion orden de compra";
+            this.label23.Text = "fecha partido";
             // 
             // textBox24
             // 
             this.textBox24.Location = new System.Drawing.Point(213, 39);
-            this.textBox24.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox24.Margin = new System.Windows.Forms.Padding(4);
             this.textBox24.Name = "textBox24";
             this.textBox24.Size = new System.Drawing.Size(223, 30);
             this.textBox24.TabIndex = 42;
@@ -831,28 +832,28 @@ namespace CapaVistaCompras
             // 
             this.label24.AutoSize = true;
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(39, 85);
+            this.label24.Location = new System.Drawing.Point(69, 86);
             this.label24.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(148, 24);
+            this.label24.Size = new System.Drawing.Size(115, 24);
             this.label24.TabIndex = 43;
-            this.label24.Text = "Codigo almacen";
+            this.label24.Text = "campeonato";
             // 
             // label25
             // 
             this.label25.AutoSize = true;
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(69, 122);
+            this.label25.Location = new System.Drawing.Point(80, 122);
             this.label25.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(117, 24);
+            this.label25.Size = new System.Drawing.Size(86, 24);
             this.label25.TabIndex = 45;
-            this.label25.Text = "Id proveedor";
+            this.label25.Text = "id estado";
             // 
             // textBox25
             // 
             this.textBox25.Location = new System.Drawing.Point(213, 79);
-            this.textBox25.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox25.Margin = new System.Windows.Forms.Padding(4);
             this.textBox25.Name = "textBox25";
             this.textBox25.Size = new System.Drawing.Size(223, 30);
             this.textBox25.TabIndex = 44;
@@ -860,7 +861,7 @@ namespace CapaVistaCompras
             // textBox17
             // 
             this.textBox17.Location = new System.Drawing.Point(744, 0);
-            this.textBox17.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox17.Margin = new System.Windows.Forms.Padding(4);
             this.textBox17.Name = "textBox17";
             this.textBox17.Size = new System.Drawing.Size(71, 22);
             this.textBox17.TabIndex = 59;
@@ -883,7 +884,7 @@ namespace CapaVistaCompras
             // 
             this.textBox18.Enabled = false;
             this.textBox18.Location = new System.Drawing.Point(249, 4);
-            this.textBox18.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox18.Margin = new System.Windows.Forms.Padding(4);
             this.textBox18.Name = "textBox18";
             this.textBox18.Size = new System.Drawing.Size(223, 22);
             this.textBox18.TabIndex = 57;
@@ -909,13 +910,12 @@ namespace CapaVistaCompras
             this.groupBox4.Controls.Add(this.textBox40);
             this.groupBox4.Controls.Add(this.button13);
             this.groupBox4.Controls.Add(this.textBox39);
-            this.groupBox4.Controls.Add(this.label37);
             this.groupBox4.Controls.Add(this.dataGridView1);
             this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.groupBox4.Location = new System.Drawing.Point(28, 471);
-            this.groupBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox4.Size = new System.Drawing.Size(1473, 383);
             this.groupBox4.TabIndex = 60;
             this.groupBox4.TabStop = false;
@@ -935,7 +935,7 @@ namespace CapaVistaCompras
             // button15
             // 
             this.button15.Location = new System.Drawing.Point(1347, 310);
-            this.button15.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button15.Margin = new System.Windows.Forms.Padding(4);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(124, 64);
             this.button15.TabIndex = 67;
@@ -946,7 +946,7 @@ namespace CapaVistaCompras
             // textBox40
             // 
             this.textBox40.Location = new System.Drawing.Point(499, 326);
-            this.textBox40.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox40.Margin = new System.Windows.Forms.Padding(4);
             this.textBox40.Name = "textBox40";
             this.textBox40.Size = new System.Drawing.Size(223, 30);
             this.textBox40.TabIndex = 66;
@@ -956,7 +956,7 @@ namespace CapaVistaCompras
             // button13
             // 
             this.button13.Location = new System.Drawing.Point(1215, 310);
-            this.button13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button13.Margin = new System.Windows.Forms.Padding(4);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(124, 64);
             this.button13.TabIndex = 65;
@@ -968,22 +968,11 @@ namespace CapaVistaCompras
             // 
             this.textBox39.Enabled = false;
             this.textBox39.Location = new System.Drawing.Point(967, 326);
-            this.textBox39.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox39.Margin = new System.Windows.Forms.Padding(4);
             this.textBox39.Name = "textBox39";
             this.textBox39.Size = new System.Drawing.Size(223, 30);
             this.textBox39.TabIndex = 64;
-            // 
-            // label37
-            // 
-            this.label37.AutoSize = true;
-            this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.Location = new System.Drawing.Point(757, 332);
-            this.label37.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(175, 24);
-            this.label37.TabIndex = 63;
-            this.label37.Text = "Total orden compra";
-            this.label37.Click += new System.EventHandler(this.label37_Click);
+            this.textBox39.Visible = false;
             // 
             // dataGridView1
             // 
@@ -998,54 +987,12 @@ namespace CapaVistaCompras
             this.costo_unitario,
             this.total_detalle_orden_compra});
             this.dataGridView1.Location = new System.Drawing.Point(0, 12);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(1473, 292);
             this.dataGridView1.TabIndex = 62;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // pk_id_detalle_orden_compra
-            // 
-            this.pk_id_detalle_orden_compra.HeaderText = "IdDetalleOrdenCompra";
-            this.pk_id_detalle_orden_compra.MinimumWidth = 6;
-            this.pk_id_detalle_orden_compra.Name = "pk_id_detalle_orden_compra";
-            // 
-            // fk_codigo_almacen
-            // 
-            this.fk_codigo_almacen.HeaderText = "codigo_almacen";
-            this.fk_codigo_almacen.MinimumWidth = 6;
-            this.fk_codigo_almacen.Name = "fk_codigo_almacen";
-            // 
-            // fk_id_orden_compra
-            // 
-            this.fk_id_orden_compra.HeaderText = "fk_id_orden_compra";
-            this.fk_id_orden_compra.MinimumWidth = 6;
-            this.fk_id_orden_compra.Name = "fk_id_orden_compra";
-            // 
-            // fk_id_listado_productos
-            // 
-            this.fk_id_listado_productos.HeaderText = "fk_id_listado_productos";
-            this.fk_id_listado_productos.MinimumWidth = 6;
-            this.fk_id_listado_productos.Name = "fk_id_listado_productos";
-            // 
-            // cantidad_detalle_orden_compra
-            // 
-            this.cantidad_detalle_orden_compra.HeaderText = "cantidad_detalle_orden_compra";
-            this.cantidad_detalle_orden_compra.MinimumWidth = 6;
-            this.cantidad_detalle_orden_compra.Name = "cantidad_detalle_orden_compra";
-            // 
-            // costo_unitario
-            // 
-            this.costo_unitario.HeaderText = "costo_unitario";
-            this.costo_unitario.MinimumWidth = 6;
-            this.costo_unitario.Name = "costo_unitario";
-            // 
-            // total_detalle_orden_compra
-            // 
-            this.total_detalle_orden_compra.HeaderText = "Total";
-            this.total_detalle_orden_compra.MinimumWidth = 6;
-            this.total_detalle_orden_compra.Name = "total_detalle_orden_compra";
             // 
             // groupBox5
             // 
@@ -1076,9 +1023,9 @@ namespace CapaVistaCompras
             this.groupBox5.Controls.Add(this.textBox34);
             this.groupBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox5.Location = new System.Drawing.Point(1571, 42);
-            this.groupBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox5.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox5.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox5.Size = new System.Drawing.Size(695, 422);
             this.groupBox5.TabIndex = 62;
             this.groupBox5.TabStop = false;
@@ -1088,7 +1035,7 @@ namespace CapaVistaCompras
             // textBox37
             // 
             this.textBox37.Location = new System.Drawing.Point(445, 193);
-            this.textBox37.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox37.Margin = new System.Windows.Forms.Padding(4);
             this.textBox37.Name = "textBox37";
             this.textBox37.Size = new System.Drawing.Size(223, 30);
             this.textBox37.TabIndex = 68;
@@ -1108,7 +1055,7 @@ namespace CapaVistaCompras
             // textBox36
             // 
             this.textBox36.Location = new System.Drawing.Point(445, 124);
-            this.textBox36.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox36.Margin = new System.Windows.Forms.Padding(4);
             this.textBox36.Name = "textBox36";
             this.textBox36.Size = new System.Drawing.Size(223, 30);
             this.textBox36.TabIndex = 66;
@@ -1127,7 +1074,7 @@ namespace CapaVistaCompras
             // textBox35
             // 
             this.textBox35.Location = new System.Drawing.Point(445, 64);
-            this.textBox35.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox35.Margin = new System.Windows.Forms.Padding(4);
             this.textBox35.Name = "textBox35";
             this.textBox35.Size = new System.Drawing.Size(223, 30);
             this.textBox35.TabIndex = 64;
@@ -1146,7 +1093,7 @@ namespace CapaVistaCompras
             // textBox26
             // 
             this.textBox26.Location = new System.Drawing.Point(243, 363);
-            this.textBox26.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox26.Margin = new System.Windows.Forms.Padding(4);
             this.textBox26.Name = "textBox26";
             this.textBox26.Size = new System.Drawing.Size(223, 30);
             this.textBox26.TabIndex = 59;
@@ -1165,7 +1112,7 @@ namespace CapaVistaCompras
             // textBox27
             // 
             this.textBox27.Location = new System.Drawing.Point(243, 324);
-            this.textBox27.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox27.Margin = new System.Windows.Forms.Padding(4);
             this.textBox27.Name = "textBox27";
             this.textBox27.Size = new System.Drawing.Size(223, 30);
             this.textBox27.TabIndex = 57;
@@ -1185,7 +1132,7 @@ namespace CapaVistaCompras
             // 
             this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button11.Location = new System.Drawing.Point(497, 330);
-            this.button11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button11.Margin = new System.Windows.Forms.Padding(4);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(197, 92);
             this.button11.TabIndex = 49;
@@ -1196,7 +1143,7 @@ namespace CapaVistaCompras
             // textBox28
             // 
             this.textBox28.Location = new System.Drawing.Point(213, 284);
-            this.textBox28.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox28.Margin = new System.Windows.Forms.Padding(4);
             this.textBox28.Name = "textBox28";
             this.textBox28.Size = new System.Drawing.Size(223, 30);
             this.textBox28.TabIndex = 55;
@@ -1215,7 +1162,7 @@ namespace CapaVistaCompras
             // textBox29
             // 
             this.textBox29.Location = new System.Drawing.Point(213, 240);
-            this.textBox29.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox29.Margin = new System.Windows.Forms.Padding(4);
             this.textBox29.Name = "textBox29";
             this.textBox29.Size = new System.Drawing.Size(223, 30);
             this.textBox29.TabIndex = 53;
@@ -1234,7 +1181,7 @@ namespace CapaVistaCompras
             // textBox30
             // 
             this.textBox30.Location = new System.Drawing.Point(213, 202);
-            this.textBox30.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox30.Margin = new System.Windows.Forms.Padding(4);
             this.textBox30.Name = "textBox30";
             this.textBox30.Size = new System.Drawing.Size(223, 30);
             this.textBox30.TabIndex = 51;
@@ -1253,7 +1200,7 @@ namespace CapaVistaCompras
             // textBox31
             // 
             this.textBox31.Location = new System.Drawing.Point(213, 116);
-            this.textBox31.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox31.Margin = new System.Windows.Forms.Padding(4);
             this.textBox31.Name = "textBox31";
             this.textBox31.Size = new System.Drawing.Size(223, 30);
             this.textBox31.TabIndex = 46;
@@ -1261,7 +1208,7 @@ namespace CapaVistaCompras
             // textBox32
             // 
             this.textBox32.Location = new System.Drawing.Point(213, 162);
-            this.textBox32.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox32.Margin = new System.Windows.Forms.Padding(4);
             this.textBox32.Name = "textBox32";
             this.textBox32.Size = new System.Drawing.Size(223, 30);
             this.textBox32.TabIndex = 48;
@@ -1291,7 +1238,7 @@ namespace CapaVistaCompras
             // textBox33
             // 
             this.textBox33.Location = new System.Drawing.Point(213, 39);
-            this.textBox33.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox33.Margin = new System.Windows.Forms.Padding(4);
             this.textBox33.Name = "textBox33";
             this.textBox33.Size = new System.Drawing.Size(223, 30);
             this.textBox33.TabIndex = 42;
@@ -1323,7 +1270,7 @@ namespace CapaVistaCompras
             // textBox34
             // 
             this.textBox34.Location = new System.Drawing.Point(213, 79);
-            this.textBox34.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox34.Margin = new System.Windows.Forms.Padding(4);
             this.textBox34.Name = "textBox34";
             this.textBox34.Size = new System.Drawing.Size(223, 30);
             this.textBox34.TabIndex = 44;
@@ -1331,18 +1278,60 @@ namespace CapaVistaCompras
             // textBox38
             // 
             this.textBox38.Location = new System.Drawing.Point(1571, 15);
-            this.textBox38.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox38.Margin = new System.Windows.Forms.Padding(4);
             this.textBox38.Name = "textBox38";
             this.textBox38.Size = new System.Drawing.Size(223, 22);
             this.textBox38.TabIndex = 61;
             this.textBox38.Visible = false;
             this.textBox38.TextChanged += new System.EventHandler(this.textBox38_TextChanged);
             // 
+            // pk_id_detalle_orden_compra
+            // 
+            this.pk_id_detalle_orden_compra.HeaderText = "Idpartido";
+            this.pk_id_detalle_orden_compra.MinimumWidth = 6;
+            this.pk_id_detalle_orden_compra.Name = "pk_id_detalle_orden_compra";
+            // 
+            // fk_codigo_almacen
+            // 
+            this.fk_codigo_almacen.HeaderText = "tipojugada";
+            this.fk_codigo_almacen.MinimumWidth = 6;
+            this.fk_codigo_almacen.Name = "fk_codigo_almacen";
+            // 
+            // fk_id_orden_compra
+            // 
+            this.fk_id_orden_compra.HeaderText = "id_detalle";
+            this.fk_id_orden_compra.MinimumWidth = 6;
+            this.fk_id_orden_compra.Name = "fk_id_orden_compra";
+            // 
+            // fk_id_listado_productos
+            // 
+            this.fk_id_listado_productos.HeaderText = "id_partido";
+            this.fk_id_listado_productos.MinimumWidth = 6;
+            this.fk_id_listado_productos.Name = "fk_id_listado_productos";
+            // 
+            // cantidad_detalle_orden_compra
+            // 
+            this.cantidad_detalle_orden_compra.HeaderText = "equipos";
+            this.cantidad_detalle_orden_compra.MinimumWidth = 6;
+            this.cantidad_detalle_orden_compra.Name = "cantidad_detalle_orden_compra";
+            // 
+            // costo_unitario
+            // 
+            this.costo_unitario.HeaderText = "CostoPartido";
+            this.costo_unitario.MinimumWidth = 6;
+            this.costo_unitario.Name = "costo_unitario";
+            // 
+            // total_detalle_orden_compra
+            // 
+            this.total_detalle_orden_compra.HeaderText = "Total";
+            this.total_detalle_orden_compra.MinimumWidth = 6;
+            this.total_detalle_orden_compra.Name = "total_detalle_orden_compra";
+            // 
             // detalleordencompra
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1924, 918);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.textBox38);
@@ -1357,7 +1346,7 @@ namespace CapaVistaCompras
             this.Controls.Add(this.textBox16);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label9);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "detalleordencompra";
             this.Text = "detalleordencompra";
             this.Load += new System.EventHandler(this.detalleordencompra_Load);
@@ -1472,14 +1461,6 @@ namespace CapaVistaCompras
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox textBox39;
-        private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.DataGridViewTextBoxColumn pk_id_detalle_orden_compra;
-        private System.Windows.Forms.DataGridViewTextBoxColumn fk_codigo_almacen;
-        private System.Windows.Forms.DataGridViewTextBoxColumn fk_id_orden_compra;
-        private System.Windows.Forms.DataGridViewTextBoxColumn fk_id_listado_productos;
-        private System.Windows.Forms.DataGridViewTextBoxColumn cantidad_detalle_orden_compra;
-        private System.Windows.Forms.DataGridViewTextBoxColumn costo_unitario;
-        private System.Windows.Forms.DataGridViewTextBoxColumn total_detalle_orden_compra;
         private System.Windows.Forms.Button button13;
         private System.Windows.Forms.TextBox textBox40;
         private System.Windows.Forms.Button button14;
@@ -1488,5 +1469,12 @@ namespace CapaVistaCompras
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Label label38;
         private System.Windows.Forms.Button button18;
+        private System.Windows.Forms.DataGridViewTextBoxColumn pk_id_detalle_orden_compra;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fk_codigo_almacen;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fk_id_orden_compra;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fk_id_listado_productos;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cantidad_detalle_orden_compra;
+        private System.Windows.Forms.DataGridViewTextBoxColumn costo_unitario;
+        private System.Windows.Forms.DataGridViewTextBoxColumn total_detalle_orden_compra;
     }
 }
