@@ -448,5 +448,10 @@ namespace CapaVistaCompras
             string rutaAyuda = "../../../../../../../Ayuda/Modulos/Compras/AyudaRisko/Ayudacompras.chm";
             Help.ShowHelp(ParentForm, rutaAyuda, "Ordencompra.html");
         }
+
+        private void label19_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
