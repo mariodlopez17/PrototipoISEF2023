@@ -279,5 +279,16 @@ namespace CapaVistaCompras
             string rutaAyuda = "../../../../../../../Ayuda/Modulos/Compras/AyudaRisko/Ayudacompras.chm";
             Help.ShowHelp(ParentForm, rutaAyuda, "MantenimientoProv.html");
         }
+
+        private void informesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void reporteProveedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CrystalReport1 rep = new CrystalReport1();
+            
+        }
     }
 }
