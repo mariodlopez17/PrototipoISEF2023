@@ -28,3 +28,9 @@ C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\C
 C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
 C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
 C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb

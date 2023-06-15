@@ -110,9 +110,9 @@ namespace CapaVistaCompras
             this.label13.Location = new System.Drawing.Point(573, 486);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(283, 24);
+            this.label13.Size = new System.Drawing.Size(92, 24);
             this.label13.TabIndex = 73;
-            this.label13.Text = "abonos_acumulados_proveedor";
+            this.label13.Text = "Id usuario";
             // 
             // textBox13
             // 
@@ -130,9 +130,9 @@ namespace CapaVistaCompras
             this.label12.Location = new System.Drawing.Point(9, 486);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(277, 24);
+            this.label12.Size = new System.Drawing.Size(39, 24);
             this.label12.TabIndex = 71;
-            this.label12.Text = "cargos_acumulados_proveedor";
+            this.label12.Text = "DPI";
             // 
             // textBox12
             // 
@@ -150,9 +150,9 @@ namespace CapaVistaCompras
             this.label11.Location = new System.Drawing.Point(520, 447);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(252, 24);
+            this.label11.Size = new System.Drawing.Size(32, 24);
             this.label11.TabIndex = 69;
-            this.label11.Text = "abonos_del_mes_proveedor";
+            this.label11.Text = "Nit";
             // 
             // textBox11
             // 
@@ -170,9 +170,9 @@ namespace CapaVistaCompras
             this.label10.Location = new System.Drawing.Point(9, 447);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(237, 24);
+            this.label10.Size = new System.Drawing.Size(153, 24);
             this.label10.TabIndex = 67;
-            this.label10.Text = "cargo_del_mes_proveedor";
+            this.label10.Text = "fecha nacimiento";
             // 
             // textBox10
             // 
@@ -190,9 +190,9 @@ namespace CapaVistaCompras
             this.label9.Location = new System.Drawing.Point(559, 407);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(211, 24);
+            this.label9.Size = new System.Drawing.Size(90, 24);
             this.label9.TabIndex = 65;
-            this.label9.Text = "saldo_actual_proveedor";
+            this.label9.Text = "Direccion";
             // 
             // textBox9
             // 
@@ -219,9 +219,9 @@ namespace CapaVistaCompras
             this.label8.Location = new System.Drawing.Point(12, 533);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(188, 26);
+            this.label8.Size = new System.Drawing.Size(156, 26);
             this.label8.TabIndex = 62;
-            this.label8.Text = "Estatus proveedor";
+            this.label8.Text = "Fecha contrato";
             // 
             // textBox6
             // 
@@ -239,9 +239,10 @@ namespace CapaVistaCompras
             this.label6.Location = new System.Drawing.Point(8, 407);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(271, 24);
+            this.label6.Size = new System.Drawing.Size(68, 24);
             this.label6.TabIndex = 60;
-            this.label6.Text = "saldo_mes_anterior_proveedor";
+            this.label6.Text = "Correo";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // textBox5
             // 
@@ -259,9 +260,9 @@ namespace CapaVistaCompras
             this.label4.Location = new System.Drawing.Point(877, 368);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(152, 24);
+            this.label4.Size = new System.Drawing.Size(89, 24);
             this.label4.TabIndex = 58;
-            this.label4.Text = "rubro_proveedor";
+            this.label4.Text = "Apellido2";
             // 
             // textBox4
             // 
@@ -280,9 +281,9 @@ namespace CapaVistaCompras
             this.label3.Location = new System.Drawing.Point(448, 368);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(162, 24);
+            this.label3.Size = new System.Drawing.Size(89, 24);
             this.label3.TabIndex = 56;
-            this.label3.Text = "correo_proveedor";
+            this.label3.Text = "Apellido1";
             // 
             // textBox3
             // 
@@ -300,9 +301,10 @@ namespace CapaVistaCompras
             this.label2.Location = new System.Drawing.Point(9, 368);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(174, 24);
+            this.label2.Size = new System.Drawing.Size(124, 24);
             this.label2.TabIndex = 54;
-            this.label2.Text = "telefono_proveedor";
+            this.label2.Text = "ID tipo puesto";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox2
             // 
@@ -320,9 +322,9 @@ namespace CapaVistaCompras
             this.label1.Location = new System.Drawing.Point(835, 329);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(185, 24);
+            this.label1.Size = new System.Drawing.Size(89, 24);
             this.label1.TabIndex = 52;
-            this.label1.Text = "direccion_proveedor";
+            this.label1.Text = "Nombre2";
             // 
             // textBox1
             // 
@@ -351,9 +353,9 @@ namespace CapaVistaCompras
             this.label5.Location = new System.Drawing.Point(383, 329);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(176, 24);
+            this.label5.Size = new System.Drawing.Size(89, 24);
             this.label5.TabIndex = 41;
-            this.label5.Text = "Nombre_proveedor";
+            this.label5.Text = "Nombre1";
             // 
             // textBox7
             // 
@@ -371,9 +373,9 @@ namespace CapaVistaCompras
             this.label7.Location = new System.Drawing.Point(9, 329);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(72, 24);
+            this.label7.Size = new System.Drawing.Size(119, 24);
             this.label7.TabIndex = 43;
-            this.label7.Text = "ID Emp";
+            this.label7.Text = "ID Empleado";
             // 
             // textBox8
             // 
