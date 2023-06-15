@@ -1,0 +1,12 @@
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb

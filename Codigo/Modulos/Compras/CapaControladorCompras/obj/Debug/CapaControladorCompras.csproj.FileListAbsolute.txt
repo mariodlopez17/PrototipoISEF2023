@@ -1,0 +1,54 @@
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\source\repos\comprasmod\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Final IS\PrototipoISEF2023\Codigo\Modulos\Compras\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
