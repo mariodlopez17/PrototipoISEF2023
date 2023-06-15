@@ -1,0 +1,5 @@
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

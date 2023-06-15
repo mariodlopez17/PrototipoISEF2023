@@ -1,0 +1,8 @@
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
