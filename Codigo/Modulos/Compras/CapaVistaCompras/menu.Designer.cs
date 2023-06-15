@@ -37,12 +37,12 @@ namespace CapaVistaCompras
             this.detalleOrdenCompraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.confirmarCompraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.devolucionCompraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ayudaMantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.productosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.agregarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ayudaMantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -81,7 +81,7 @@ namespace CapaVistaCompras
             // proveedoresToolStripMenuItem
             // 
             this.proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
-            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(160, 26);
             this.proveedoresToolStripMenuItem.Text = "Empleado";
             this.proveedoresToolStripMenuItem.Click += new System.EventHandler(this.proveedoresToolStripMenuItem_Click);
             // 
@@ -98,23 +98,45 @@ namespace CapaVistaCompras
             // detalleOrdenCompraToolStripMenuItem
             // 
             this.detalleOrdenCompraToolStripMenuItem.Name = "detalleOrdenCompraToolStripMenuItem";
-            this.detalleOrdenCompraToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.detalleOrdenCompraToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.detalleOrdenCompraToolStripMenuItem.Text = "Partido";
             this.detalleOrdenCompraToolStripMenuItem.Click += new System.EventHandler(this.detalleOrdenCompraToolStripMenuItem_Click);
             // 
             // confirmarCompraToolStripMenuItem
             // 
             this.confirmarCompraToolStripMenuItem.Name = "confirmarCompraToolStripMenuItem";
-            this.confirmarCompraToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.confirmarCompraToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.confirmarCompraToolStripMenuItem.Text = "Evento";
             this.confirmarCompraToolStripMenuItem.Click += new System.EventHandler(this.confirmarCompraToolStripMenuItem_Click);
             // 
             // devolucionCompraToolStripMenuItem
             // 
             this.devolucionCompraToolStripMenuItem.Name = "devolucionCompraToolStripMenuItem";
-            this.devolucionCompraToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.devolucionCompraToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.devolucionCompraToolStripMenuItem.Text = "Torneo";
             this.devolucionCompraToolStripMenuItem.Click += new System.EventHandler(this.devolucionCompraToolStripMenuItem_Click);
+            // 
+            // informesToolStripMenuItem
+            // 
+            this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
+            this.informesToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
+            this.informesToolStripMenuItem.Text = "Informes";
+            this.informesToolStripMenuItem.Click += new System.EventHandler(this.informesToolStripMenuItem_Click);
+            // 
+            // productosToolStripMenuItem
+            // 
+            this.productosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.agregarToolStripMenuItem});
+            this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            this.productosToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
+            this.productosToolStripMenuItem.Text = "Herramientas";
+            // 
+            // agregarToolStripMenuItem
+            // 
+            this.agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
+            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.agregarToolStripMenuItem.Text = "Configuración";
+            this.agregarToolStripMenuItem.Click += new System.EventHandler(this.agregarToolStripMenuItem_Click);
             // 
             // herramientasToolStripMenuItem
             // 
@@ -131,33 +153,12 @@ namespace CapaVistaCompras
             this.ayudaMantenimientoToolStripMenuItem.Text = "Ayuda Mantenimiento";
             this.ayudaMantenimientoToolStripMenuItem.Click += new System.EventHandler(this.ayudaMantenimientoToolStripMenuItem_Click);
             // 
-            // productosToolStripMenuItem
-            // 
-            this.productosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.agregarToolStripMenuItem});
-            this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
-            this.productosToolStripMenuItem.Size = new System.Drawing.Size(112, 24);
-            this.productosToolStripMenuItem.Text = "Herramientas";
-            // 
-            // agregarToolStripMenuItem
-            // 
-            this.agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
-            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.agregarToolStripMenuItem.Text = "Agregar producto";
-            this.agregarToolStripMenuItem.Click += new System.EventHandler(this.agregarToolStripMenuItem_Click);
-            // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(52, 24);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
-            // 
-            // informesToolStripMenuItem
-            // 
-            this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
-            this.informesToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
-            this.informesToolStripMenuItem.Text = "Informes";
             // 
             // menu
             // 
@@ -167,7 +168,7 @@ namespace CapaVistaCompras
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "menu";
             this.Text = "Mario David Lopez Rivera 0901-19-18992";
             this.menuStrip1.ResumeLayout(false);
