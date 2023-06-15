@@ -1,0 +1,30 @@
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\azael\source\repos\comprasmod\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\corrido\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\compras 30%\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\azael\Desktop\completo 2\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\mario\OneDrive\Escritorio\Primer commit\proyectois2k23\Codigo\Modulos\Compras\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
